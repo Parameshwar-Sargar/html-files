@@ -1,0 +1,37 @@
+.page3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.page3 .card{
+border: none;
+}
+
+.page4{
+    text-align: center;
+    background-color: darkslategray;
+    margin-top: 40px;
+    color: #fff;
+}
+.page4 dt{
+    color: black;
+    font-size: x-large;
+}
+.page4 dd:hover{
+   color: red;
+}
+.card{
+    padding: 30px;
+    margin: 0px 0px;
+}
+.page3-card{
+    border-radius: 30px;
+}
+.page3-card:hover{
+    box-shadow: 0px 0px 10px 3px red ;
+    font-size: xx-large;
+    font-family: cursive;
+}
+.page3-card img{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
